@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently coding some weird stuffs, sometimes i code games, sometimes things to make me laugh on Discord but usually i build some stuffs to make me happy when i'm not working. 
+I’m currently coding some weird stuffs, sometimes i code games, sometimes things to make me laugh on Discord but usually i build some stuffs to make me happy when i'm not working. 
 
 I love C # 🧡 and have a complicated relationship with Javascrypt 🤔, but we get along whenever we need.
 
